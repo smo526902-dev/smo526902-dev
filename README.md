@@ -19,10 +19,6 @@
 [ Add what you're currently learning ]
 ```
 
-🎯 Goals for 2026:
-```txt
-[ Add your goals ]
-```
 
 📫 Reach me at:
 ```txt
